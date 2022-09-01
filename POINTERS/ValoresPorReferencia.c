@@ -1,7 +1,12 @@
 #include <stdio.h>
 
+// Declaración de funciones
 void Suma(int a, int b, int *resultado);
 
+/**
+ * Este programa ejemplifica el
+ * @return
+ */
 int main(void)
 {
     // Declaración de variables
