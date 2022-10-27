@@ -69,6 +69,7 @@ int SimonDice(int arregloDeJuego[])
             printf("%i ", arregloDeJuego[j]);
         }
 
+        putchar('\n');
         getchar();
         system("clear");
         printf("Dame la secuencia, introduce un número a la vez y presiona enter por cada número");
